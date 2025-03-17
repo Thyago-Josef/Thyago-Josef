@@ -16,7 +16,7 @@
 <p>
     <ul>
     <li> Desenvolvedor Full Stack </li>
-    <li> Extremamente curioso e amante da tecnologia </li>
+    <li> Extremamente curioso e amante da tecnologia! </li>
     </ul>
 </p>
 
