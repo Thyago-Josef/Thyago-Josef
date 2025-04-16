@@ -13,12 +13,13 @@
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=falso&vCenter=falso&repeat=verdadeiro&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg) -->
 
-<p>
-    <ul>
-    <li> Desenvolvedor Full Stack </li>
-    <li> Extremamente curioso e amante da tecnologia </li>
-    </ul>
-</p>
+
+    
+    **'Desenvolvedor Full Stack'**
+
+     Me chamo THyago José, tenho 34 anos e sou natural do Rio de Janeiro. Concluí o ensino o ensino superior em Análise e Desenvolvimento de Sistemas. Sou apaixonado por tecnologia.
+    
+
 
 
   <!-- <div>      
