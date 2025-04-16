@@ -78,6 +78,24 @@ Me chamo THyago José, tenho 34 anos e sou natural do Rio de Janeiro. Concluí o
 
 <img 
     align="left" 
+    alt="angular"
+    title="angular" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="flutter"
+    title="flutter" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" 
+/>
+
+<img 
+    align="left" 
     alt="HTML"
     title="HTML" 
     width="30px" 
