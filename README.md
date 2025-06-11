@@ -18,7 +18,7 @@
     
  **Desenvolvedor FullStack**
 
-Me chamo THyago José, tenho 34 anos e sou natural do Rio de Janeiro. Concluí o ensino o ensino superior em Análise e Desenvolvimento de Sistemas. Sou apaixonado por tecnologia.
+Me chamo Thyago José, tenho 34 anos e sou natural do Rio de Janeiro. Concluí o ensino o ensino superior em Análise e Desenvolvimento de Sistemas. Sou apaixonado por tecnologia.
 
 
 
