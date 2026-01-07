@@ -28,11 +28,22 @@ Me chamo Thyago José, tenho 34 anos e sou natural do Rio de Janeiro. Concluí o
    
    </div>  -->
 
-   <div>  
+   <!-- <div>  
   <img  src="https://github-readme-stats.vercel.app/api?username=Thyago-Josef&show_icons=true&count_private=true&hide_border=true&title_color=36BCF7FFicon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Thyago Jose github stats" /> 
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thyago-Josef&layout=compact&hide_border=true&title_color=36BCF7FF&text_color=ff91a4&bg_color=0d1117" />
 
-  </div>
+  </div> -->
+
+  <!-- <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Thyago-Josef&show_icons=true&count_private=true&hide_border=true&title_color=36BCF7FF&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Thyago Jose github stats" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thyago-Josef&layout=compact&hide_border=true&title_color=36BCF7FF&text_color=ff91a4&bg_color=0d1117" alt="Top Languages" />
+</div> -->
+
+<div align="center">
+  <img src="https://github-readme-stats-git-masterhstic.vercel.app/api?username=Thyago-Josef&show_icons=true&count_private=true&hide_border=true&title_color=36BCF7FF&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Thyago Jose github stats" /> 
+  
+  <img src="https://github-readme-stats-git-masterhstic.vercel.app/api/top-langs/?username=Thyago-Josef&layout=compact&hide_border=true&title_color=36BCF7FF&text_color=ff91a4&bg_color=0d1117" alt="Top Languages" />
+</div>
 
 <p align="center">
     Welcome to my github, here you will find my projects and collaborations for the open source world.
