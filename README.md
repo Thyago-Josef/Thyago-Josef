@@ -16,7 +16,7 @@
 
     
     
- **Desenvolvedor FullStack**
+
 
 <div align="center">
   <p>
