@@ -5,7 +5,7 @@
 <div align="center">
   <p>
     <b>'Desenvolvedor Full Stack'</b><br>
-    Me chamo <b>Thyago José</b>, tenho 34 anos e sou natural do Rio de Janeiro. Graduado em <b>Análise e Desenvolvimento de Sistemas</b>, sou um entusiasta da tecnologia dedicado a criar soluções Full Stack inovadoras. Atuo de forma <b>ágil</b>, integrando <b>IA</b> ao fluxo de trabalho e priorizando sempre a <b>escalabilidade</b> e a <b>segurança</b> de ponta a ponta.
+    Me chamo <b>Thyago José</b>, tenho 36 anos e sou natural do Rio de Janeiro. Graduado em <b>Análise e Desenvolvimento de Sistemas</b>, sou um entusiasta da tecnologia dedicado a criar soluções Full Stack inovadoras. Atuo de forma <b>ágil</b>, integrando <b>IA</b> ao fluxo de trabalho e priorizando sempre a <b>escalabilidade</b> e a <b>segurança</b> de ponta a ponta.
   </p>
 </div>
 
